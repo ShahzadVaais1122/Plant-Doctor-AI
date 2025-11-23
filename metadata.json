@@ -1,0 +1,7 @@
+{
+  "name": "Plant Doctor AI",
+  "description": "An AI-powered application that allows users to take a photo of a sick plant leaf and instantly get a diagnosis of the disease and a recommended treatment. It also keeps a history of past diagnoses.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
